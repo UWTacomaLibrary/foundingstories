@@ -1,2 +1,2 @@
 # foundingstories
-The repository will hold changes to the CollectionBuilder static site
+This repository is for serving the site
