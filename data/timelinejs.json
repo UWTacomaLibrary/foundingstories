@@ -1,0 +1,112 @@
+{
+    "title": {
+        "media": {
+          "url": "https://uwtacomalibrary.github.io/foundingstories/assets/img/collectionbuilder-logo.png",
+          "caption": null,
+          "credit": "Founding Histories"
+        },
+        "text": {
+          "headline": "Founding Histories Timeline",
+          "text": "CollectionBuilder-CONTENTdm is a template for creating digital collection exhibits on top of existing CONTENTdm repositories. This demo features materials from the Frank B. Robinson Papers documenting Psychiana, a religion popular in the 1930s and 40s."
+        }
+    },
+    "events": [
+      {
+        "media": {
+          "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/3",
+          "caption": "Claudia Gorbman interview",
+          "link": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories3.html",
+          "credit": "Founding Histories"
+        },
+        "start_date": { 
+          "month": "04",
+          "day": "05",
+          "year": "2018"
+        },
+        "text": {
+          "headline": "Claudia Gorbman interview",
+          "text": "In this interview, Claudia Gorbman reflects on the transformations at University of Washington Tacoma since its establishment, comparing the earlier, more idealistic years focused on interdisciplinary education to the more recent growth in size and bureaucratic procedures. She describes the adventurous spirit of a new frontier that marked the beginning years.      The session begins with her explaining her professional trajectory and the difficult decision to choose UW Tacoma over the tenured position she had held at Indiana University Bloomington for 15 years. On the subject of gender imbalance among the founding faculty, Gorbman remarks on the respectful treatment she has received from her peers and the force of her only female colleague on the faculty, Judy Stevens-Long. Speaking about her own scholarship, Gorbman regrets taking an &quot;elitist&quot; approach, stating that her views have shifted toward the end of her tenure at UW Tacoma--from focusing on global recognition to becoming more community-oriented.      The conversation then turns to the Global Honors Program, which Gorbman directed, and she recognizes the work of her successor, Divya McMillin. She praises her students in the early years, who were typically older, professional students, noting their diligence and insight. She then talks about starting the Tacoma Film Society with UW Tacoma professor Anthony D'Costa, his wife Janette Rawlings, and Beckie Etheridge at the University's Media Services. The interview concludes with Gorbman's comments on how much the University's trajectory has deviated from the original vision as a result of rapid expansion and general attitudes toward the humanities and interdisciplinary studies."
+        }
+      },{
+        "media": {
+          "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/7",
+          "caption": "Suzanne Klinger interview",
+          "link": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories7.html",
+          "credit": "Founding Histories"
+        },
+        "start_date": { 
+          "month": "12",
+          "day": "14",
+          "year": "2017"
+        },
+        "text": {
+          "headline": "Suzanne Klinger interview",
+          "text": "In the interview, Klinger describes how she came to work at UW Tacoma Library. She relates that the recruitment of staff was concurrent with the faculty curriculum planning conference in spring 1990. She recounts how, in the early days, the library worked closely with its Seattle counterpart, borrowed from its established systems, and designed new procedures to circulate materials across the campuses.      The conversation then turns to interdepartmental relationships. Klinger notes that the library operated somewhat independently from the campus administration and how that resulted in feelings of animosity, as well as challenges faced by the founding librarian, Deborah Stansbury Sunday, who happens to be African-American. The interview then shifts from the lack of diversity in the initial faculty to transformations at the library and of Klinger's position. To Klinger, the establishment of UW Tacoma's physical presence aided a sense of rootedness and connection to the local community. She remarks that the early student body did not reflect the diversity of the local population and on the difficulty to amend that. She then ponders how the institution might help the homeless population or alleviate the impact on gentrification its development has caused.     In the final portion of the interview, Klinger shares her perspective on mentorship, naming a few past student employees at UW Tacoma Library, including Brian Bannon, who is now the Commissioner of the Chicago Public Library system. She reflects on how technology has transformed the practice and meaning of her work. While regretting the University's regression toward less interdisciplinary and more traditional degree offerings, she expresses hopes in an increased commitment to social justice and fairness on both the school's and the library's part."
+        }
+      },{
+        "media": {
+          "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/11",
+          "caption": "Michael Sullivan interview",
+          "link": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories11.html",
+          "credit": "Founding Histories"
+        },
+        "start_date": { 
+          "month": "09",
+          "day": "21",
+          "year": "2017"
+        },
+        "text": {
+          "headline": "Michael Sullivan interview",
+          "text": "In the interview, Sullivan describes the building of the University of Washington Tacoma campus, addressing themes of architecture, historic preservation, urban design, and warehouse district revitalization. He recalls working in the capacity of the city's historic preservation officer to review the campus location and facilitate its construction. In addition, together with fellow architect Valerie Sivinski at their firm Artifacts, he advised on building renovations as a conservator.     The bulk of the interview includes a discussion on how UW Tacoma came to be placed in its downtown location. Sullivan details the involvement of esteemed architect Charles Moore and his myriad thoughtful, intellectually grounded design ideas: elevated sidewalks converted from loading docks, pavement patterns reminiscent of railroad tracks, parchment-colored concrete floor that references the place's industrial origin and new academic purpose. Sullivan further elaborates on the decision to respect the historic Prairie Line, the terminus of the Northern Transcontinental Railroad, and the significance to treat it as a central organizing point to the layout of the campus.     Sullivan then comments on the transformation of downtown since the late 1980s, with its new purpose in education and culture. He muses on Dale Chihuly's rise as a prominent artist. The interview concludes with Sullivan's remarks on how the political force formed by Booth Garner, Brian Ebersole, and Lorraine Wojahn aided the growth of UW Tacoma; he praises the university's contribution to economic justice and suggests its future role in equity issues within the city."
+        }
+      },{
+        "media": {
+          "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/15",
+          "caption": "Michael Honey interview",
+          "link": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories15.html",
+          "credit": "Founding Histories"
+        },
+        "start_date": { 
+          "month": "10",
+          "day": "4",
+          "year": "2017"
+        },
+        "text": {
+          "headline": "Michael Honey interview",
+          "text": "In the interview, Honey recounts his student life and early career. He begins with early influences from his own \"union family\" and postwar Michigan, where workers were well-represented by strong unions, such as the United Automobile Workers. He describes his college experience at Oakland University, where he met his mentor and professor, Henry Rosemont, who opened his eyes to the situation of the Vietnam War and led him to register as a conscientious objector. He recalls the 1967 Detroit riot and speaks of Martin Luther King as a recurring theme in his life and career.      Honey then discusses the period after college, when he went to the South and became actively involved in the civil rights movement--working on cases of Angela Davis and others. He talks about how these experiences fueled his desire to attend graduate school at Howard University and Northern Illinois in order to study and write about African-American history, labor, and civil rights in the South.     In the second half of the interview, Honey discusses how he arrived at University of Washington Tacoma. He recalls his efforts building relationships with the community and prominent Tacoma figures like Tom Dixon, a civil rights leader and founding director of the Tacoma Urban League. He notes the success of programs at such locations as the Washington History Museum and the Allen AME Church. As a founding faculty member, he helped to shape the first courses offered at UW Tacoma, and he incorporated music into his history courses, drawing connections to Pete Seeger, the Highlander Folk School, and others. On the importance of community relationship, he highlights decisions over the years to hire faculty who were invested in the population surrounding the UW Tacoma campus. As the session nears its end, he remarks on the challenges of having to build an institution while teaching and conducting scholarship simultaneously and laments over the waning legislative support for higher education."
+        }
+      },{
+        "media": {
+          "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/19",
+          "caption": "Samuel Parker interview",
+          "link": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories19.html",
+          "credit": "Founding Histories"
+        },
+        "start_date": { 
+          "month": "01",
+          "day": "31",
+          "year": "2018"
+        },
+        "text": {
+          "headline": "Samuel Parker interview",
+          "text": "In this interview, Samuel Parker reminisces about the early days of University of Washington Tacoma and explains the decisions that eventually led to a more departmentalized approach to academic programs. He notes an increased preoccupation with accountability and management structures on the institution's part.     The interview begins with Parker pointing out reasons that attracted him to UW Tacoma, including the unique interdisciplinary curriculum and the rare opportunity to build an institution from scratch. He describes the dynamic among the initial 13 faculty and their legacy of resistance against the compartmentalization of the University, especially following the creation of a psychology concentration under the first chancellor, Vicky Carwein. He also recalls characteristics of the students who were first to enroll at UW Tacoma and praised their industry and eagerness to learn. The session then turns to the University's relationship with the local community, and Parker mentions joining the Pierce County Arts Commission. He relates this to the revitalization of Downtown Tacoma through the arts. He discusses the work of Charles Moore, remarking that Moore had designed an Indian style garden--charbagh--for the UWT campus based on his previous work on Mughal gardens and Indian gardens.     The last part of the interview concentrates on the development of today's Master of Arts in Interdisciplinary Studies, in which Parker played an instrumental role. He recalls the process that began in 1990 with the idea for a master's in liberal studies, which developed into a possible inter-program (IP) master's and eventually materialized as the MAIS in 2001. Parker concludes by citing the program to represent what he would like to see in the future of UWT--something unique and interdisciplinary."
+        }
+      },{
+        "media": {
+          "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/23",
+          "caption": "Michael Allen interview",
+          "link": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories23.html",
+          "credit": "Founding Histories"
+        },
+        "start_date": { 
+          "month": "02",
+          "day": "21",
+          "year": "2018"
+        },
+        "text": {
+          "headline": "Michael Allen interview",
+          "text": "In this interview, Michael Allen describes what it was like to be a faculty member at University of Washington Tacoma at the founding of the campus. He remarks on how the interdisciplinary bent--which is less pronounced in today's more-structured curriculum--reflected an intellectual goal shared among the initial faculty members. He explains the freedom and flexibility this allowed, citing fondly his experience conducting scholarship at the intersection of history, folklore, music, and rodeo.      The interview then shifts to UW Tacoma's relationship with the local community. Allen points out the issue of fairness, noting that Tacoma was the largest metropolitan area on the Pacific coast that did not have a state college, and therefore, he says, the community embraced the arrival of UW Tacoma, which offered essentially open admission and a pathway to higher education. He recalls a preference for faculty candidates' investment in the community in earlier recruitments, when whether or not they lived locally in the South Sound was important.      In the concluding section of the interview, Allen traces the trajectory of UW Tacoma, projecting that it will become increasing similar to regional state schools. He attributes this to democracy, the forces of politics, and the fact that most Americans are more interested in applied degrees than liberal arts. He welcomes this future and intends to create, as much excellence as possible, while broadening access."
+        }
+      }
+    ]
+}

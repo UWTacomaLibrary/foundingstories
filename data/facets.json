@@ -1,0 +1,106 @@
+{
+    "facets": [ 
+        {
+            "field": "affiliation (role)",
+            "terms": { 
+                "faculty": 4,
+                "community member": 1,
+                "staff": 1
+            }
+        },
+        {
+            "field": "affiliation (department)",
+            "terms": { 
+                "school of interdisciplinary arts and science": 4,
+                "liberal studies": 4,
+                "city of tacoma": 1,
+                "historic preservation office": 1,
+                "artifacts consulting": 1,
+                "library": 1
+            }
+        },
+        {
+            "field": "subject",
+            "terms": { 
+                "diversity": 3,
+                "vietnam war": 2,
+                "charles moore": 2,
+                "deborah stansbury sunday": 2,
+                "interdisciplinary": 2,
+                "global honors": 2,
+                "jack keating": 2,
+                "nontraditional students": 2,
+                "evergreen state college": 2,
+                "tri-campus": 1,
+                "tacoma film society": 1,
+                "tacoma film festival": 1,
+                "film studies": 1,
+                "comparative literature": 1,
+                "gender": 1,
+                "pat spakes": 1,
+                "indiana university bloomington": 1,
+                "nathan hale high school": 1,
+                "water rights": 1,
+                "puyallup tribe": 1,
+                "puget sound energy": 1,
+                "lng": 1,
+                "librarianship, social justice": 1,
+                "brian bannon": 1,
+                "debra friedman": 1,
+                "bothell": 1,
+                "judy stevens-long": 1,
+                "dale chihuly": 1,
+                "artifacts": 1,
+                "prairie line": 1,
+                "northern transcontinental railroad": 1,
+                "union station": 1,
+                "historic preservation office": 1,
+                "warehouse district": 1,
+                "urban waters": 1,
+                "martin luther king jr.": 1,
+                "league of revolutionary black workers": 1,
+                "march of washington": 1,
+                "civil rights": 1,
+                "interdisciplinary education": 1,
+                "conscientious objectors": 1,
+                "labor": 1,
+                "national committee against repressive legislation": 1,
+                "southern conference educational fund": 1,
+                "herbert aptheker": 1,
+                "william kunstler": 1,
+                "carl braden": 1,
+                "highlander folk school": 1,
+                "pete seeger": 1,
+                "harry bridges": 1,
+                "ilwu local 23": 1,
+                "the whole u": 1,
+                "pierce county arts commission": 1,
+                "charbagh": 1,
+                "mughal gardens": 1,
+                "vicky carwein": 1,
+                "mais": 1,
+                "mississippi river": 1,
+                "core curriculum": 1,
+                "interdisciplinary curriculum": 1,
+                "washington state historical society": 1,
+                "william gerberding": 1,
+                "grand valley state university": 1
+            }
+        },
+        {
+            "field": "location",
+            "terms": { 
+                "united states--washington (state)--tacoma": 6,
+                "united states--washington (state)--seattle": 3,
+                "united states--indiana--bloomington": 1,
+                "united states--illinois--chicago": 1,
+                "united states--kentucky--louisville": 1,
+                "united states--michigan--detroit": 1,
+                "united states--tennessee--memphis": 1,
+                "united states--michigan--lansing": 1,
+                "united states--idaho--ellensburg": 1
+            }
+        }
+        
+    ]
+}
