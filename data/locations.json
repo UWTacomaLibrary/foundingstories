@@ -1,11 +1,17 @@
 { "locations": [
-    { "location" : "united states--washington (state)--tacoma", "count" : 6, "link" : "https://uwtacomalibrary.github.io/foundingstories/browse.html#united%20states--washington%20(state)--tacoma" },
-    { "location" : "united states--washington (state)--seattle", "count" : 3, "link" : "https://uwtacomalibrary.github.io/foundingstories/browse.html#united%20states--washington%20(state)--seattle" },
-    { "location" : "united states--indiana--bloomington", "count" : 1, "link" : "https://uwtacomalibrary.github.io/foundingstories/browse.html#united%20states--indiana--bloomington" },
-    { "location" : "united states--illinois--chicago", "count" : 1, "link" : "https://uwtacomalibrary.github.io/foundingstories/browse.html#united%20states--illinois--chicago" },
-    { "location" : "united states--kentucky--louisville", "count" : 1, "link" : "https://uwtacomalibrary.github.io/foundingstories/browse.html#united%20states--kentucky--louisville" },
-    { "location" : "united states--michigan--detroit", "count" : 1, "link" : "https://uwtacomalibrary.github.io/foundingstories/browse.html#united%20states--michigan--detroit" },
-    { "location" : "united states--tennessee--memphis", "count" : 1, "link" : "https://uwtacomalibrary.github.io/foundingstories/browse.html#united%20states--tennessee--memphis" },
-    { "location" : "united states--michigan--lansing", "count" : 1, "link" : "https://uwtacomalibrary.github.io/foundingstories/browse.html#united%20states--michigan--lansing" },
-    { "location" : "united states--idaho--ellensburg", "count" : 1, "link" : "https://uwtacomalibrary.github.io/foundingstories/browse.html#united%20states--idaho--ellensburg" }
+    { "location" : "united states--washington (state)--tacoma", "count" : 12, "link" : "http://localhost:4000/foundingstories/browse.html#united%20states--washington%20(state)--tacoma" },
+    { "location" : "united states--washington (state)--seattle", "count" : 7, "link" : "http://localhost:4000/foundingstories/browse.html#united%20states--washington%20(state)--seattle" },
+    { "location" : "united states--washington (state)--olympia", "count" : 2, "link" : "http://localhost:4000/foundingstories/browse.html#united%20states--washington%20(state)--olympia" },
+    { "location" : "united states--kentucky--louisville", "count" : 1, "link" : "http://localhost:4000/foundingstories/browse.html#united%20states--kentucky--louisville" },
+    { "location" : "united states--indiana--bloomington", "count" : 1, "link" : "http://localhost:4000/foundingstories/browse.html#united%20states--indiana--bloomington" },
+    { "location" : "united states--tennessee--memphis", "count" : 1, "link" : "http://localhost:4000/foundingstories/browse.html#united%20states--tennessee--memphis" },
+    { "location" : "united states--michigan--lansing", "count" : 1, "link" : "http://localhost:4000/foundingstories/browse.html#united%20states--michigan--lansing" },
+    { "location" : "united states--washington--ellensburg", "count" : 1, "link" : "http://localhost:4000/foundingstories/browse.html#united%20states--washington--ellensburg" },
+    { "location" : "united states--michigan--detroit", "count" : 1, "link" : "http://localhost:4000/foundingstories/browse.html#united%20states--michigan--detroit" },
+    { "location" : "united states--illinois--chicago", "count" : 1, "link" : "http://localhost:4000/foundingstories/browse.html#united%20states--illinois--chicago" },
+    { "location" : "united states--washington (state)--federal way", "count" : 1, "link" : "http://localhost:4000/foundingstories/browse.html#united%20states--washington%20(state)--federal%20way" },
+    { "location" : "united states--california--morgan hill", "count" : 1, "link" : "http://localhost:4000/foundingstories/browse.html#united%20states--california--morgan%20hill" },
+    { "location" : "united states--washington (state)--fort lewis", "count" : 1, "link" : "http://localhost:4000/foundingstories/browse.html#united%20states--washington%20(state)--fort%20lewis" },
+    { "location" : "united states--washington (state)--everett", "count" : 1, "link" : "http://localhost:4000/foundingstories/browse.html#united%20states--washington%20(state)--everett" },
+    { "location" : "united states--washington (state)--puyallup", "count" : 1, "link" : "http://localhost:4000/foundingstories/browse.html#united%20states--washington%20(state)--puyallup" }
 ]}

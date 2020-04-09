@@ -1,12 +1,12 @@
 {
     "title": {
         "media": {
-          "url": "https://uwtacomalibrary.github.io/foundingstories/assets/img/collectionbuilder-logo.png",
+          "url": "http://localhost:4000/foundingstories/assets/img/collectionbuilder-logo.png",
           "caption": null,
-          "credit": "Founding Histories"
+          "credit": "Founding Stories"
         },
         "text": {
-          "headline": "Founding Histories Timeline",
+          "headline": "Founding Stories Timeline",
           "text": "<em>UW Tacoma Oral History: Founding Stories</em> is a growing collection that captures the first-hand accounts and perspectives of individuals who played significant roles in the shaping of the campus community and identity. This is a demo site is built on CollectionBuilder-CONTENTdm."
         }
     },
@@ -15,8 +15,8 @@
         "media": {
           "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/3",
           "caption": "Claudia Gorbman interview",
-          "link": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories3.html",
-          "credit": "Founding Histories"
+          "link": "http://localhost:4000/foundingstories/items/foundingstories3.html",
+          "credit": "Founding Stories"
         },
         "start_date": { 
           "month": "04",
@@ -31,8 +31,8 @@
         "media": {
           "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/7",
           "caption": "Suzanne Klinger interview",
-          "link": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories7.html",
-          "credit": "Founding Histories"
+          "link": "http://localhost:4000/foundingstories/items/foundingstories7.html",
+          "credit": "Founding Stories"
         },
         "start_date": { 
           "month": "12",
@@ -47,8 +47,8 @@
         "media": {
           "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/11",
           "caption": "Michael Sullivan interview",
-          "link": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories11.html",
-          "credit": "Founding Histories"
+          "link": "http://localhost:4000/foundingstories/items/foundingstories11.html",
+          "credit": "Founding Stories"
         },
         "start_date": { 
           "month": "09",
@@ -63,8 +63,8 @@
         "media": {
           "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/15",
           "caption": "Michael Honey interview",
-          "link": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories15.html",
-          "credit": "Founding Histories"
+          "link": "http://localhost:4000/foundingstories/items/foundingstories15.html",
+          "credit": "Founding Stories"
         },
         "start_date": { 
           "month": "10",
@@ -73,14 +73,14 @@
         },
         "text": {
           "headline": "Michael Honey interview",
-          "text": "In the interview, Honey recounts his student life and early career. He begins with early influences from his own \"union family\" and postwar Michigan, where workers were well-represented by strong unions, such as the United Automobile Workers. He describes his college experience at Oakland University, where he met his mentor and professor, Henry Rosemont, who opened his eyes to the situation of the Vietnam War and led him to register as a conscientious objector. He recalls the 1967 Detroit riot and speaks of Martin Luther King as a recurring theme in his life and career.      Honey then discusses the period after college, when he went to the South and became actively involved in the civil rights movement--working on cases of Angela Davis and others. He talks about how these experiences fueled his desire to attend graduate school at Howard University and Northern Illinois in order to study and write about African-American history, labor, and civil rights in the South.     In the second half of the interview, Honey discusses how he arrived at University of Washington Tacoma. He recalls his efforts building relationships with the community and prominent Tacoma figures like Tom Dixon, a civil rights leader and founding director of the Tacoma Urban League. He notes the success of programs at such locations as the Washington History Museum and the Allen AME Church. As a founding faculty member, he helped to shape the first courses offered at UW Tacoma, and he incorporated music into his history courses, drawing connections to Pete Seeger, the Highlander Folk School, and others. On the importance of community relationship, he highlights decisions over the years to hire faculty who were invested in the population surrounding the UW Tacoma campus. As the session nears its end, he remarks on the challenges of having to build an institution while teaching and conducting scholarship simultaneously and laments over the waning legislative support for higher education."
+          "text": "In the interview, Honey recounts his student life and early career. He begins with early influences from his own &quot;union family&quot; and postwar Michigan, where workers were well-represented by strong unions, such as the United Automobile Workers. He describes his college experience at Oakland University, where he met his mentor and professor, Henry Rosemont, who opened his eyes to the situation of the Vietnam War and led him to register as a conscientious objector. He recalls the 1967 Detroit riot and speaks of Martin Luther King as a recurring theme in his life and career.      Honey then discusses the period after college, when he went to the South and became actively involved in the civil rights movement--working on cases of Angela Davis and others. He talks about how these experiences fueled his desire to attend graduate school at Howard University and Northern Illinois in order to study and write about African-American history, labor, and civil rights in the South.     In the second half of the interview, Honey discusses how he arrived at University of Washington Tacoma. He recalls his efforts building relationships with the community and prominent Tacoma figures like Tom Dixon, a civil rights leader and founding director of the Tacoma Urban League. He notes the success of programs at such locations as the Washington History Museum and the Allen AME Church. As a founding faculty member, he helped to shape the first courses offered at UW Tacoma, and he incorporated music into his history courses, drawing connections to Pete Seeger, the Highlander Folk School, and others. On the importance of community relationship, he highlights decisions over the years to hire faculty who were invested in the population surrounding the UW Tacoma campus. As the session nears its end, he remarks on the challenges of having to build an institution while teaching and conducting scholarship simultaneously and laments over the waning legislative support for higher education."
         }
       },{
         "media": {
           "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/19",
           "caption": "Samuel Parker interview",
-          "link": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories19.html",
-          "credit": "Founding Histories"
+          "link": "http://localhost:4000/foundingstories/items/foundingstories19.html",
+          "credit": "Founding Stories"
         },
         "start_date": { 
           "month": "01",
@@ -95,8 +95,8 @@
         "media": {
           "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/23",
           "caption": "Michael Allen interview",
-          "link": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories23.html",
-          "credit": "Founding Histories"
+          "link": "http://localhost:4000/foundingstories/items/foundingstories23.html",
+          "credit": "Founding Stories"
         },
         "start_date": { 
           "month": "02",
@@ -106,6 +106,99 @@
         "text": {
           "headline": "Michael Allen interview",
           "text": "In this interview, Michael Allen describes what it was like to be a faculty member at University of Washington Tacoma at the founding of the campus. He remarks on how the interdisciplinary bent--which is less pronounced in today's more-structured curriculum--reflected an intellectual goal shared among the initial faculty members. He explains the freedom and flexibility this allowed, citing fondly his experience conducting scholarship at the intersection of history, folklore, music, and rodeo.      The interview then shifts to UW Tacoma's relationship with the local community. Allen points out the issue of fairness, noting that Tacoma was the largest metropolitan area on the Pacific coast that did not have a state college, and therefore, he says, the community embraced the arrival of UW Tacoma, which offered essentially open admission and a pathway to higher education. He recalls a preference for faculty candidates' investment in the community in earlier recruitments, when whether or not they lived locally in the South Sound was important.      In the concluding section of the interview, Allen traces the trajectory of UW Tacoma, projecting that it will become increasing similar to regional state schools. He attributes this to democracy, the forces of politics, and the fact that most Americans are more interested in applied degrees than liberal arts. He welcomes this future and intends to create, as much excellence as possible, while broadening access."
+        }
+      },{
+        "media": {
+          "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/28",
+          "caption": "Liz Heath interview",
+          "link": "http://localhost:4000/foundingstories/items/foundingstories27.html",
+          "credit": "Founding Stories"
+        },
+        "start_date": { 
+          "month": "05",
+          "day": "15",
+          "year": "2018"
+        },
+        "text": {
+          "headline": "Liz Heath interview",
+          "text": "Liz Heath starts the session by explaining her involvement in the late 1980s with the Tacoma-Pierce County Economic Development Board (EDB) and the South Puget Sound Higher Education Council, where she worked with Ryan Petty, then the director of EDB, on the project to found UW Tacoma. She recalls the community activism that successfully brought public higher education to the South Puget Sound region. She discusses the assessments of community needs, the vision for a liberal arts curriculum that would offer a practical degree to place-bound students, and the decision made by the Washington Higher Education Coordinating (HEC) Board to eventually select University of Washington as the institution to make this happen. The session shifts to the political aspect of establishing UW Tacoma. Heath describes the legislative support the University received, naming, in particular, Brian Ebersole, former Washington State Speaker of the House, and majority leader Dan Grimm. The conversation continues with a glimpse into the initial interviews for the founding faculty, which Heath attended as a member of the UW Tacoma Advisory Panel. In the concluding part of the session, noting her encounters with students and alumni of UW Tacoma, Heath states that this is perhaps the most important work she has done in her life. The interview ends with Heath’s reflection on various perspectives on community that, she says, are shaped by the environment."
+        }
+      },{
+        "media": {
+          "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/32",
+          "caption": "Brian Ebersole interview",
+          "link": "http://localhost:4000/foundingstories/items/foundingstories31.html",
+          "credit": "Founding Stories"
+        },
+        "start_date": { 
+          "month": "07",
+          "day": "27",
+          "year": "2018"
+        },
+        "text": {
+          "headline": "Brian Ebersole interview",
+          "text": "In this interview, Brian Ebersole recounts his involvement in the establishment of the University of Washington Tacoma, which coincided largely with his time as Washington State House Majority Leader. He remembers first hearing about the idea in 1987 and credits fellow legislator Dan Grimm for having by that point explored access to public higher education in the South Sound for over a decade. He points out the need in Tacoma, citing that it is an underserved, blue-collar city in relation to Seattle. He then explains the mechanism of founding a state branch campus and how Grimm, being the Chair of the House Ways and Means Committee, had significant leverage to make it happen. Placing UWT in the context of the revitalization of Downtown Tacoma, he connected the founding of the campus to the Save Our Nation movement, which resulted in the restoration of the historic Union Station. The second half of the session turned toward other community initiatives such as the contributions of the Tacoma-Pierce County Economic Development Board (EDB), which Ebersole said carried out their efforts largely independently. In addition, he mentions Kelso Gillenwater and David Zeeck, publishers of The News Tribune, as some of the key players. In the concluding part of the interview, Ebersole shares his opinion on broadening access to public education, emphasizing the need for inclusiveness. Finally, he reflects on the future direction of UW Tacoma, mentioning Urban Waters as an ideal example of collaboration between the state, city, and the University to fulfill local needs and advance research."
+        }
+      },{
+        "media": {
+          "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/36",
+          "caption": "Sara Contreras interview",
+          "link": "http://localhost:4000/foundingstories/items/foundingstories35.html",
+          "credit": "Founding Stories"
+        },
+        "start_date": { 
+          "month": "10",
+          "day": "30",
+          "year": "2019"
+        },
+        "text": {
+          "headline": "Sara Contreras interview",
+          "text": "In this interview, Sara Contreras discusses her experience working as a founding staff member to establish the Education Program (later the School of Education) at University of Washington Tacoma in 1992. She also reflects on her experience earning her bachelor’s degree at UW Tacoma as a working student and student parent. The session begins with her trajectory starting her career in the Morgan Hill Unified School District in Morgan Hill, California, and later at the College of Education at UW Seattle, before working and completing her degree at UW Tacoma. Contreras mentions faculty colleagues such as Marcy Stein and Belinda Louie who shared her path moving from the UW College of Education to UW Tacoma. She points to a strong sense of comradery when staff from different academic programs worked closely alongside each other in the small quarters of the Perkins Building, where the university operated until 1997. As the sole staff member of the Education Program when it was first established, Contreras had a wide array of responsibilities. She discusses working at outreach and recruiting events, interfacing with educators in the community, and her sense of pride and belonging in the Education Program. She recalls working with students—majority female and professional teachers—to navigate the challenges negotiating between graduate school, personal life, and teaching. In the later part of the interview, Contreras reflects on periods of growth and distress during her time at UW Tacoma, which corresponded with the different seasons in the university’s history. She emphasizes the priority to serve students and help them succeed, which she says is the most rewarding aspect of her work at UW Tacoma."
+        }
+      },{
+        "media": {
+          "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/40",
+          "caption": "Jamie McGee interview",
+          "link": "http://localhost:4000/foundingstories/items/foundingstories39.html",
+          "credit": "Founding Stories"
+        },
+        "start_date": { 
+          "month": "11",
+          "day": "06",
+          "year": "2019"
+        },
+        "text": {
+          "headline": "Jamie McGee interview",
+          "text": "In this interview, Jamie McGee discusses her personal and educational trajectory and her transformative experience at UW Tacoma. She recounts in detail classes she took from UW Tacoma professors, including Emily Ignacio, Michael Honey, Trista Huckleberry, and Luther Adams. In the second half of the interview, she describes the origins of the now annual Martin Luther King, Jr., Unity Breakfast, which she and her classmates in the Black Student Union began to organize in late 2006."
+        }
+      },{
+        "media": {
+          "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/44",
+          "caption": "Steve Smith interview",
+          "link": "http://localhost:4000/foundingstories/items/foundingstories43.html",
+          "credit": "Founding Stories"
+        },
+        "start_date": { 
+          "month": "01",
+          "day": "08",
+          "year": "2020"
+        },
+        "text": {
+          "headline": "Steve Smith interview",
+          "text": "In this interview, Steve Smith recounts stories from his tenure at UW Tacoma during its early years, including anecdotes of students who returned to school mid-career, snapshots of graduation ceremonies, and past conversations with administrators and colleagues. At the start of the interview, Steve Smith describes his impressions of downtown Tacoma in the late 1970s and early ’80s. Further into the interview, he shares his experience working as an administrator who maintained close connections with colleagues at UW Seattle. He describes his involvement in the unique South Puget Sound Diversity Partnership. In conclusion, Smith emphasizes UW Tacoma’s remarkable connection with the local community, sharing his insights into the education system in the area from K-12 to college."
+        }
+      },{
+        "media": {
+          "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/48",
+          "caption": "Dan Grimm interview",
+          "link": "http://localhost:4000/foundingstories/items/foundingstories47.html",
+          "credit": "Founding Stories"
+        },
+        "start_date": { "year": "2018"
+        },
+        "text": {
+          "headline": "Dan Grimm interview",
+          "text": "At the start of this interview, Dan Grimm sheds light on the origins of the idea of a public university in the South Sound, which began in the 1970s. He explains the structure of higher education in the state of Washington, stating that it was aligned with the demographics more than 100 years ago. He explains how the population changes overtime have especially impacted the South Puget Sound region, and that the resulting disparity in education opportunities became a genesis for the founding of the University. Grimm recounts his roles on the House Higher Education Committee, when he started to advocate for university campuses in the area, stretching from Everett, along the east side of Lake Washington, and down to Tacoma. He discusses the revitalization of Downtown Tacoma and the restoration of the Union Station, crediting former Representative Jim Salatino for starting the Theater District. Grimm proceeds to discuss the political advantages and obstacles he and his colleagues in the legislature faced in the early stages of trying to establish a branch campus in Tacoma, and he recounts the dramatic turn of events when Sam Smith, who was in favor of branch campuses, became the new president of Washington State University and took a helicopter tour of the city. In the second half of the interview, Grimm goes into more detail about steps to place the UW Tacoma campus in Downtown and to create the South Puget Sound Higher Education Council. In closing, Grimm shares his opinions on the future direction of UW Tacoma and his perspective on state funding for higher education in Washington."
         }
       }
     ]
