@@ -42,7 +42,7 @@
         "contentdm file name": "1.jp2",
         "contentdm file path": "/p16786coll18/image/1.jp2",
         "objectid": "foundingstories0",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories0.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories0.html"
     },
     { 
         "title": "Claudia Gorbman, audio",
@@ -88,7 +88,7 @@
         "contentdm file name": "2.mp3",
         "contentdm file path": "/p16786coll18/image/2.mp3",
         "objectid": "foundingstories1",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories1.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories1.html"
     },
     { 
         "title": "Claudia Gorbman, transcript",
@@ -134,7 +134,7 @@
         "contentdm file name": "3.pdf",
         "contentdm file path": "/p16786coll18/image/3.pdf",
         "objectid": "foundingstories2",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories2.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories2.html"
     },
     { 
         "title": "Claudia Gorbman interview",
@@ -180,7 +180,7 @@
         "contentdm file name": "4.cpd",
         "contentdm file path": "/p16786coll18/image/4.cpd",
         "objectid": "foundingstories3",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories3.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories3.html"
     },
     { 
         "title": "Suzanne Klinger, photograph",
@@ -226,7 +226,7 @@
         "contentdm file name": "5.jp2",
         "contentdm file path": "/p16786coll18/image/5.jp2",
         "objectid": "foundingstories4",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories4.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories4.html"
     },
     { 
         "title": "Suzanne Klinger, audio",
@@ -272,7 +272,7 @@
         "contentdm file name": "6.mp3",
         "contentdm file path": "/p16786coll18/image/6.mp3",
         "objectid": "foundingstories5",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories5.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories5.html"
     },
     { 
         "title": "Suzanne Klinger, transcript",
@@ -318,7 +318,7 @@
         "contentdm file name": "7.pdf",
         "contentdm file path": "/p16786coll18/image/7.pdf",
         "objectid": "foundingstories6",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories6.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories6.html"
     },
     { 
         "title": "Suzanne Klinger interview",
@@ -364,7 +364,7 @@
         "contentdm file name": "8.cpd",
         "contentdm file path": "/p16786coll18/image/8.cpd",
         "objectid": "foundingstories7",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories7.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories7.html"
     },
     { 
         "title": "Michael Sullivan, photograph",
@@ -410,7 +410,7 @@
         "contentdm file name": "9.jp2",
         "contentdm file path": "/p16786coll18/image/9.jp2",
         "objectid": "foundingstories8",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories8.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories8.html"
     },
     { 
         "title": "Michael Sullivan, audio",
@@ -456,7 +456,7 @@
         "contentdm file name": "10.mp3",
         "contentdm file path": "/p16786coll18/image/10.mp3",
         "objectid": "foundingstories9",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories9.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories9.html"
     },
     { 
         "title": "Michael Sullivan, transcript",
@@ -502,7 +502,7 @@
         "contentdm file name": "11.pdf",
         "contentdm file path": "/p16786coll18/image/11.pdf",
         "objectid": "foundingstories10",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories10.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories10.html"
     },
     { 
         "title": "Michael Sullivan interview",
@@ -548,7 +548,7 @@
         "contentdm file name": "12.cpd",
         "contentdm file path": "/p16786coll18/image/12.cpd",
         "objectid": "foundingstories11",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories11.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories11.html"
     },
     { 
         "title": "Michael Honey, photograph",
@@ -594,7 +594,7 @@
         "contentdm file name": "13.jp2",
         "contentdm file path": "/p16786coll18/image/13.jp2",
         "objectid": "foundingstories12",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories12.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories12.html"
     },
     { 
         "title": "Michael Honey, audio",
@@ -640,7 +640,7 @@
         "contentdm file name": "14.mp3",
         "contentdm file path": "/p16786coll18/image/14.mp3",
         "objectid": "foundingstories13",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories13.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories13.html"
     },
     { 
         "title": "Michael Honey, transcript",
@@ -686,7 +686,7 @@
         "contentdm file name": "15.pdf",
         "contentdm file path": "/p16786coll18/image/15.pdf",
         "objectid": "foundingstories14",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories14.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories14.html"
     },
     { 
         "title": "Michael Honey interview",
@@ -732,7 +732,7 @@
         "contentdm file name": "16.cpd",
         "contentdm file path": "/p16786coll18/image/16.cpd",
         "objectid": "foundingstories15",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories15.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories15.html"
     },
     { 
         "title": "Samuel Parker, photograph",
@@ -778,7 +778,7 @@
         "contentdm file name": "17.jp2",
         "contentdm file path": "/p16786coll18/image/17.jp2",
         "objectid": "foundingstories16",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories16.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories16.html"
     },
     { 
         "title": "Samuel Parker, audio",
@@ -824,7 +824,7 @@
         "contentdm file name": "18.mp3",
         "contentdm file path": "/p16786coll18/image/18.mp3",
         "objectid": "foundingstories17",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories17.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories17.html"
     },
     { 
         "title": "Samuel Parker, transcript",
@@ -870,7 +870,7 @@
         "contentdm file name": "19.pdf",
         "contentdm file path": "/p16786coll18/image/19.pdf",
         "objectid": "foundingstories18",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories18.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories18.html"
     },
     { 
         "title": "Samuel Parker interview",
@@ -916,7 +916,7 @@
         "contentdm file name": "20.cpd",
         "contentdm file path": "/p16786coll18/image/20.cpd",
         "objectid": "foundingstories19",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories19.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories19.html"
     },
     { 
         "title": "Michael Allen, photograph",
@@ -962,7 +962,7 @@
         "contentdm file name": "21.jp2",
         "contentdm file path": "/p16786coll18/image/21.jp2",
         "objectid": "foundingstories20",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories20.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories20.html"
     },
     { 
         "title": "Michael Allen, audio",
@@ -1008,7 +1008,7 @@
         "contentdm file name": "22.mp3",
         "contentdm file path": "/p16786coll18/image/22.mp3",
         "objectid": "foundingstories21",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories21.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories21.html"
     },
     { 
         "title": "Michael Allen, transcript",
@@ -1054,7 +1054,7 @@
         "contentdm file name": "23.pdf",
         "contentdm file path": "/p16786coll18/image/23.pdf",
         "objectid": "foundingstories22",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories22.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories22.html"
     },
     { 
         "title": "Michael Allen interview",
@@ -1100,7 +1100,7 @@
         "contentdm file name": "24.cpd",
         "contentdm file path": "/p16786coll18/image/24.cpd",
         "objectid": "foundingstories23",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories23.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories23.html"
     },
     { 
         "title": "Liz Heath, photograph",
@@ -1146,7 +1146,7 @@
         "contentdm file name": "26.jp2",
         "contentdm file path": "/p16786coll18/image/26.jp2",
         "objectid": "foundingstories24",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories24.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories24.html"
     },
     { 
         "title": "Liz Heath, audio",
@@ -1192,7 +1192,7 @@
         "contentdm file name": "27.mp3",
         "contentdm file path": "/p16786coll18/image/27.mp3",
         "objectid": "foundingstories25",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories25.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories25.html"
     },
     { 
         "title": "Liz Heath, transcript",
@@ -1238,7 +1238,7 @@
         "contentdm file name": "28.pdf",
         "contentdm file path": "/p16786coll18/image/28.pdf",
         "objectid": "foundingstories26",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories26.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories26.html"
     },
     { 
         "title": "Liz Heath interview",
@@ -1284,7 +1284,7 @@
         "contentdm file name": "29.cpd",
         "contentdm file path": "/p16786coll18/image/29.cpd",
         "objectid": "foundingstories27",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories27.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories27.html"
     },
     { 
         "title": "Brian Ebersole, photograph",
@@ -1330,7 +1330,7 @@
         "contentdm file name": "30.jp2",
         "contentdm file path": "/p16786coll18/image/30.jp2",
         "objectid": "foundingstories28",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories28.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories28.html"
     },
     { 
         "title": "Brian Ebersole, audio",
@@ -1376,7 +1376,7 @@
         "contentdm file name": "31.mp3",
         "contentdm file path": "/p16786coll18/image/31.mp3",
         "objectid": "foundingstories29",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories29.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories29.html"
     },
     { 
         "title": "Brian Ebersole, transcript",
@@ -1422,7 +1422,7 @@
         "contentdm file name": "32.pdf",
         "contentdm file path": "/p16786coll18/image/32.pdf",
         "objectid": "foundingstories30",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories30.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories30.html"
     },
     { 
         "title": "Brian Ebersole interview",
@@ -1468,7 +1468,7 @@
         "contentdm file name": "33.cpd",
         "contentdm file path": "/p16786coll18/image/33.cpd",
         "objectid": "foundingstories31",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories31.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories31.html"
     },
     { 
         "title": "Sara Contreras, photograph",
@@ -1514,7 +1514,7 @@
         "contentdm file name": "34.jp2",
         "contentdm file path": "/p16786coll18/image/34.jp2",
         "objectid": "foundingstories32",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories32.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories32.html"
     },
     { 
         "title": "Sara Contreras, audio",
@@ -1560,7 +1560,7 @@
         "contentdm file name": "35.mp3",
         "contentdm file path": "/p16786coll18/image/35.mp3",
         "objectid": "foundingstories33",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories33.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories33.html"
     },
     { 
         "title": "Sara Contreras, transcript",
@@ -1606,7 +1606,7 @@
         "contentdm file name": "36.pdf",
         "contentdm file path": "/p16786coll18/image/36.pdf",
         "objectid": "foundingstories34",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories34.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories34.html"
     },
     { 
         "title": "Sara Contreras interview",
@@ -1652,7 +1652,7 @@
         "contentdm file name": "37.cpd",
         "contentdm file path": "/p16786coll18/image/37.cpd",
         "objectid": "foundingstories35",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories35.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories35.html"
     },
     { 
         "title": "Jamie McGee, photograph",
@@ -1698,7 +1698,7 @@
         "contentdm file name": "38.jp2",
         "contentdm file path": "/p16786coll18/image/38.jp2",
         "objectid": "foundingstories36",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories36.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories36.html"
     },
     { 
         "title": "Jamie McGee, audio",
@@ -1744,7 +1744,7 @@
         "contentdm file name": "39.mp3",
         "contentdm file path": "/p16786coll18/image/39.mp3",
         "objectid": "foundingstories37",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories37.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories37.html"
     },
     { 
         "title": "Jamie McGee, transcript",
@@ -1790,7 +1790,7 @@
         "contentdm file name": "40.pdf",
         "contentdm file path": "/p16786coll18/image/40.pdf",
         "objectid": "foundingstories38",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories38.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories38.html"
     },
     { 
         "title": "Jamie McGee interview",
@@ -1836,7 +1836,7 @@
         "contentdm file name": "41.cpd",
         "contentdm file path": "/p16786coll18/image/41.cpd",
         "objectid": "foundingstories39",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories39.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories39.html"
     },
     { 
         "title": "Steve Smith, photograph",
@@ -1882,7 +1882,7 @@
         "contentdm file name": "42.jp2",
         "contentdm file path": "/p16786coll18/image/42.jp2",
         "objectid": "foundingstories40",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories40.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories40.html"
     },
     { 
         "title": "Steve Smith, audio",
@@ -1928,7 +1928,7 @@
         "contentdm file name": "43.mp3",
         "contentdm file path": "/p16786coll18/image/43.mp3",
         "objectid": "foundingstories41",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories41.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories41.html"
     },
     { 
         "title": "Steve Smith, transcript",
@@ -1974,7 +1974,7 @@
         "contentdm file name": "44.pdf",
         "contentdm file path": "/p16786coll18/image/44.pdf",
         "objectid": "foundingstories42",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories42.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories42.html"
     },
     { 
         "title": "Steve Smith interview",
@@ -2020,7 +2020,7 @@
         "contentdm file name": "45.cpd",
         "contentdm file path": "/p16786coll18/image/45.cpd",
         "objectid": "foundingstories43",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories43.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories43.html"
     },
     { 
         "title": "Dan Grimm, photograph",
@@ -2066,7 +2066,7 @@
         "contentdm file name": "46.jp2",
         "contentdm file path": "/p16786coll18/image/46.jp2",
         "objectid": "foundingstories44",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories44.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories44.html"
     },
     { 
         "title": "Dan Grimm, audio",
@@ -2112,7 +2112,7 @@
         "contentdm file name": "47.mp3",
         "contentdm file path": "/p16786coll18/image/47.mp3",
         "objectid": "foundingstories45",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories45.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories45.html"
     },
     { 
         "title": "Dan Grimm, transcript",
@@ -2158,7 +2158,7 @@
         "contentdm file name": "48.pdf",
         "contentdm file path": "/p16786coll18/image/48.pdf",
         "objectid": "foundingstories46",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories46.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories46.html"
     },
     { 
         "title": "Dan Grimm interview",
@@ -2204,7 +2204,7 @@
         "contentdm file name": "49.cpd",
         "contentdm file path": "/p16786coll18/image/49.cpd",
         "objectid": "foundingstories47",
-        "reference_url": "http://localhost:4000/foundingstories/items/foundingstories47.html"
+        "reference_url": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories47.html"
     }
     
 ] }

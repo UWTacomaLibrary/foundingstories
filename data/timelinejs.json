@@ -1,7 +1,7 @@
 {
     "title": {
         "media": {
-          "url": "http://localhost:4000/foundingstories/assets/img/collectionbuilder-logo.png",
+          "url": "https://uwtacomalibrary.github.io/foundingstories/assets/img/collectionbuilder-logo.png",
           "caption": null,
           "credit": "Founding Stories"
         },
@@ -15,7 +15,7 @@
         "media": {
           "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/3",
           "caption": "Claudia Gorbman interview",
-          "link": "http://localhost:4000/foundingstories/items/foundingstories3.html",
+          "link": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories3.html",
           "credit": "Founding Stories"
         },
         "start_date": { 
@@ -31,7 +31,7 @@
         "media": {
           "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/7",
           "caption": "Suzanne Klinger interview",
-          "link": "http://localhost:4000/foundingstories/items/foundingstories7.html",
+          "link": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories7.html",
           "credit": "Founding Stories"
         },
         "start_date": { 
@@ -47,7 +47,7 @@
         "media": {
           "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/11",
           "caption": "Michael Sullivan interview",
-          "link": "http://localhost:4000/foundingstories/items/foundingstories11.html",
+          "link": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories11.html",
           "credit": "Founding Stories"
         },
         "start_date": { 
@@ -63,7 +63,7 @@
         "media": {
           "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/15",
           "caption": "Michael Honey interview",
-          "link": "http://localhost:4000/foundingstories/items/foundingstories15.html",
+          "link": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories15.html",
           "credit": "Founding Stories"
         },
         "start_date": { 
@@ -79,7 +79,7 @@
         "media": {
           "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/19",
           "caption": "Samuel Parker interview",
-          "link": "http://localhost:4000/foundingstories/items/foundingstories19.html",
+          "link": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories19.html",
           "credit": "Founding Stories"
         },
         "start_date": { 
@@ -95,7 +95,7 @@
         "media": {
           "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/23",
           "caption": "Michael Allen interview",
-          "link": "http://localhost:4000/foundingstories/items/foundingstories23.html",
+          "link": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories23.html",
           "credit": "Founding Stories"
         },
         "start_date": { 
@@ -111,7 +111,7 @@
         "media": {
           "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/28",
           "caption": "Liz Heath interview",
-          "link": "http://localhost:4000/foundingstories/items/foundingstories27.html",
+          "link": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories27.html",
           "credit": "Founding Stories"
         },
         "start_date": { 
@@ -127,7 +127,7 @@
         "media": {
           "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/32",
           "caption": "Brian Ebersole interview",
-          "link": "http://localhost:4000/foundingstories/items/foundingstories31.html",
+          "link": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories31.html",
           "credit": "Founding Stories"
         },
         "start_date": { 
@@ -143,7 +143,7 @@
         "media": {
           "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/36",
           "caption": "Sara Contreras interview",
-          "link": "http://localhost:4000/foundingstories/items/foundingstories35.html",
+          "link": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories35.html",
           "credit": "Founding Stories"
         },
         "start_date": { 
@@ -159,7 +159,7 @@
         "media": {
           "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/40",
           "caption": "Jamie McGee interview",
-          "link": "http://localhost:4000/foundingstories/items/foundingstories39.html",
+          "link": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories39.html",
           "credit": "Founding Stories"
         },
         "start_date": { 
@@ -175,7 +175,7 @@
         "media": {
           "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/44",
           "caption": "Steve Smith interview",
-          "link": "http://localhost:4000/foundingstories/items/foundingstories43.html",
+          "link": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories43.html",
           "credit": "Founding Stories"
         },
         "start_date": { 
@@ -191,7 +191,7 @@
         "media": {
           "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/48",
           "caption": "Dan Grimm interview",
-          "link": "http://localhost:4000/foundingstories/items/foundingstories47.html",
+          "link": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories47.html",
           "credit": "Founding Stories"
         },
         "start_date": { "year": "2018"

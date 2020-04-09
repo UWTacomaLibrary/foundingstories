@@ -1,1 +1,359 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/about.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/browse.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/data/</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/pages/google-search.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/locations.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/map.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/search/</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/subjects.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/tech.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/timeline.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories0.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories1.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories2.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories3.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories4.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories5.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories6.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories7.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories8.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories9.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories10.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories11.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories12.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories13.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories14.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories15.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories16.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories17.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories18.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories19.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories20.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories21.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories22.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories23.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories24.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories25.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories26.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories27.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories28.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories29.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories30.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories31.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories32.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories33.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories34.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories35.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories36.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories37.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories38.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories39.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories40.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories41.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories42.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories43.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories44.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories45.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories46.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+   <url>
+      <loc>https://uwtacomalibrary.github.io/foundingstories/items/foundingstories47.html</loc>
+      <lastmod>2020-04-08T17:14:09-07:00</lastmod>
+      <changefreq>monthly</changefreq>
+   </url>
+
+</urlset> 
