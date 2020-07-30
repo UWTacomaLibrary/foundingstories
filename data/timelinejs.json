@@ -1,13 +1,13 @@
 {
     "title": {
         "media": {
-          "url": "https://uwtacomalibrary.github.io/foundingstories/assets/img/collectionbuilder-logo.png",
+          "url": "https://foundingstoriesrender.onrender.com/assets/img/qWW5FY_original.jpg",
           "caption": null,
           "credit": "Founding Stories"
         },
         "text": {
           "headline": "Founding Stories Timeline",
-          "text": "<em>UW Tacoma Oral History: Founding Stories</em> is a growing collection that captures the first-hand accounts and perspectives of individuals who played significant roles in the shaping of the campus community and identity. This is a demo site is built on CollectionBuilder-CONTENTdm."
+          "text": "<em>UW Tacoma Oral History: Founding Stories</em> is a collection of first-hand accounts from the students, faculty, staff, and community members who played significant roles in establishing and shaping UW Tacoma. This collection website is built on CollectionBuilder-CONTENTdm."
         }
     },
     "events": [
@@ -15,7 +15,7 @@
         "media": {
           "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/3",
           "caption": "Claudia Gorbman interview",
-          "link": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories3.html",
+          "link": "https://foundingstoriesrender.onrender.com/items/foundingstories3.html",
           "credit": "Founding Stories"
         },
         "start_date": { 
@@ -31,7 +31,7 @@
         "media": {
           "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/7",
           "caption": "Suzanne Klinger interview",
-          "link": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories7.html",
+          "link": "https://foundingstoriesrender.onrender.com/items/foundingstories7.html",
           "credit": "Founding Stories"
         },
         "start_date": { 
@@ -47,7 +47,7 @@
         "media": {
           "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/11",
           "caption": "Michael Sullivan interview",
-          "link": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories11.html",
+          "link": "https://foundingstoriesrender.onrender.com/items/foundingstories11.html",
           "credit": "Founding Stories"
         },
         "start_date": { 
@@ -63,12 +63,12 @@
         "media": {
           "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/15",
           "caption": "Michael Honey interview",
-          "link": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories15.html",
+          "link": "https://foundingstoriesrender.onrender.com/items/foundingstories15.html",
           "credit": "Founding Stories"
         },
         "start_date": { 
           "month": "10",
-          "day": "4",
+          "day": "04",
           "year": "2017"
         },
         "text": {
@@ -79,7 +79,7 @@
         "media": {
           "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/19",
           "caption": "Samuel Parker interview",
-          "link": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories19.html",
+          "link": "https://foundingstoriesrender.onrender.com/items/foundingstories19.html",
           "credit": "Founding Stories"
         },
         "start_date": { 
@@ -95,7 +95,7 @@
         "media": {
           "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/23",
           "caption": "Michael Allen interview",
-          "link": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories23.html",
+          "link": "https://foundingstoriesrender.onrender.com/items/foundingstories23.html",
           "credit": "Founding Stories"
         },
         "start_date": { 
@@ -111,7 +111,7 @@
         "media": {
           "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/28",
           "caption": "Liz Heath interview",
-          "link": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories27.html",
+          "link": "https://foundingstoriesrender.onrender.com/items/foundingstories28.html",
           "credit": "Founding Stories"
         },
         "start_date": { 
@@ -127,7 +127,7 @@
         "media": {
           "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/32",
           "caption": "Brian Ebersole interview",
-          "link": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories31.html",
+          "link": "https://foundingstoriesrender.onrender.com/items/foundingstories32.html",
           "credit": "Founding Stories"
         },
         "start_date": { 
@@ -143,7 +143,7 @@
         "media": {
           "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/36",
           "caption": "Sara Contreras interview",
-          "link": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories35.html",
+          "link": "https://foundingstoriesrender.onrender.com/items/foundingstories36.html",
           "credit": "Founding Stories"
         },
         "start_date": { 
@@ -159,7 +159,7 @@
         "media": {
           "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/40",
           "caption": "Jamie McGee interview",
-          "link": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories39.html",
+          "link": "https://foundingstoriesrender.onrender.com/items/foundingstories40.html",
           "credit": "Founding Stories"
         },
         "start_date": { 
@@ -175,7 +175,7 @@
         "media": {
           "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/44",
           "caption": "Steve Smith interview",
-          "link": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories43.html",
+          "link": "https://foundingstoriesrender.onrender.com/items/foundingstories44.html",
           "credit": "Founding Stories"
         },
         "start_date": { 
@@ -191,14 +191,417 @@
         "media": {
           "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/48",
           "caption": "Dan Grimm interview",
-          "link": "https://uwtacomalibrary.github.io/foundingstories/items/foundingstories47.html",
+          "link": "https://foundingstoriesrender.onrender.com/items/foundingstories48.html",
           "credit": "Founding Stories"
         },
-        "start_date": { "year": "2018"
+        "start_date": { 
+          "month": "07",
+          "day": "20",
+          "year": "2018"
         },
         "text": {
           "headline": "Dan Grimm interview",
           "text": "At the start of this interview, Dan Grimm sheds light on the origins of the idea of a public university in the South Sound, which began in the 1970s. He explains the structure of higher education in the state of Washington, stating that it was aligned with the demographics more than 100 years ago. He explains how the population changes overtime have especially impacted the South Puget Sound region, and that the resulting disparity in education opportunities became a genesis for the founding of the University. Grimm recounts his roles on the House Higher Education Committee, when he started to advocate for university campuses in the area, stretching from Everett, along the east side of Lake Washington, and down to Tacoma. He discusses the revitalization of Downtown Tacoma and the restoration of the Union Station, crediting former Representative Jim Salatino for starting the Theater District. Grimm proceeds to discuss the political advantages and obstacles he and his colleagues in the legislature faced in the early stages of trying to establish a branch campus in Tacoma, and he recounts the dramatic turn of events when Sam Smith, who was in favor of branch campuses, became the new president of Washington State University and took a helicopter tour of the city. In the second half of the interview, Grimm goes into more detail about steps to place the UW Tacoma campus in Downtown and to create the South Puget Sound Higher Education Council. In closing, Grimm shares his opinions on the future direction of UW Tacoma and his perspective on state funding for higher education in Washington."
+        }
+      },{
+        "media": {
+          "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/52",
+          "caption": "Lisa Rankin Faircloth interview",
+          "link": "https://foundingstoriesrender.onrender.com/items/foundingstories52.html",
+          "credit": "Founding Stories"
+        },
+        "start_date": { 
+          "month": "12",
+          "day": "23",
+          "year": "2019"
+        },
+        "text": {
+          "headline": "Lisa Rankin Faircloth interview",
+          "text": "Lisa Rankin Faircloth begins her interview by recounting her trajectory working in higher education, which started at Tacoma Community College. She describes her encounter with Carl Rueben Brown, who was president of the NAACP Tacoma branch and active in the Black Collective and Tacoma Urban League. Recalling former colleagues like Steve Smith, Rebecca Gallogly, and Lisa Tice, she shares memories working in Student Affairs when UW Tacoma was creating new programs from scratch. Discussing her close interactions with students through advising and the Black Student Union (BSU), she mentions early alumni, including Bryan Neal, Jelisa Marshall, Clearance Slaughter, and Irish Finch. In the later part of the interview, she discusses significant events in the UW Tacoma history, including the BSU's advocating for diversity and representation in faculty hiring and collective bargaining efforts when she was the chapter president of SEIU Local 925."
+        }
+      },{
+        "media": {
+          "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/56",
+          "caption": "Bill Philip interview",
+          "link": "https://foundingstoriesrender.onrender.com/items/foundingstories56.html",
+          "credit": "Founding Stories"
+        },
+        "start_date": { 
+          "month": "12",
+          "day": "11",
+          "year": "2019"
+        },
+        "text": {
+          "headline": "Bill Philip interview",
+          "text": "In this interview, Bill Philip begins by sharing his personal background as a Tacoma native. He explains how the experience growing up in Tacoma and watching it suffer from urban decay compelled him to rally for investment in the city. He talks about how he leveraged his relationships with individuals such as George Weyerhaeuser—with whom he attended Lowell Elementary School—and former Seattle mayor Paul Schell to renew real estate in the city. He recalls his involvement in the powerful Executive Council for A Greater Tacoma with Gary Reed, Frank Shrontz, Erivan Haub, Goerge Russell, and others. He relates how, with the pressure and interest in branch campuses from Washington State University, the Executive Council raised funds and persuaded former University of Washington president Bill Gerberding to place a &quot;branch campus&quot; in downtown Tacoma. Later in the interview, he recalls former chancellor Vicky Carwein recruiting him to chair the UW Tacoma Advisory Board. Other individuals mentioned include former UW president Richard McCormick, governor Booth Gardner, Tacoma businessman Herb Simon, and others."
+        }
+      },{
+        "media": {
+          "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/60",
+          "caption": "Michael Kalton interview",
+          "link": "https://foundingstoriesrender.onrender.com/items/foundingstories60.html",
+          "credit": "Founding Stories"
+        },
+        "start_date": { 
+          "month": "05",
+          "day": "24",
+          "year": "2018"
+        },
+        "text": {
+          "headline": "Michael Kalton interview",
+          "text": "In this interview, Michael Kalton shares his experience as a founding faculty member at University of Washington Tacoma, shedding light on the tight-knit initial faculty, the growth of the institution overtime, and relationships with the university administration and local community. He begins by tracing his own academic background and explaining how, as a specialized expert in Korean Neo-Confucianism, he had come to choose an interdisciplinary, flexible career at UW Tacoma. He characterizes the dynamic among his first colleagues as natural, easy, and without a sense of hierarchy. He praises the nontraditional student body in the early years and remarks on how the University was concerned about diversifying the faculty, noting Michael Honey as a strong advocate. He goes on to explain the problems with scaling up interdisciplinarity and how that became an issue as the University grew. In the second half of the interview, Kalton recalls in more detail his motivation for organizing the faculty, which led him to establish the Faculty Assembly. While the University was backed by strong, high-level support from the South Sound community, he admits that he and his colleagues were overall too absorbed in building the institution to devote much to community outreach and developing relationships. He recalls his time as the director of the Interdisciplinary Arts and Sciences program, as well as his academic interests in tackling the natural sciences from a religion and philosophy perspective. Closing the interview, Kalton reflects on UW Tacoma’s inevitable direction toward departmentalization, diverging from the innovative, liberal arts approach he and many others had envisioned and hoped for. He concludes that his tenure at UW Tacoma was a dream job representing something he truly believed in."
+        }
+      },{
+        "media": {
+          "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/64",
+          "caption": "Robert Crawford interview",
+          "link": "https://foundingstoriesrender.onrender.com/items/foundingstories64.html",
+          "credit": "Founding Stories"
+        },
+        "start_date": { 
+          "month": "05",
+          "day": "01",
+          "year": "2018"
+        },
+        "text": {
+          "headline": "Robert Crawford interview",
+          "text": "In this interview, Rob Crawford reflects on his involvement in building the University of Washington Tacoma. He describes the various roles he had, including faculty member, chair of the Faculty Assembly for three years, and cofounder of the Washington State Religious Campaign Against Torture. Drawing on his teaching experience at Evergreen State College, he compares experimental models and approaches to an interdisciplinary curriculum. In the first part of the session, Crawford shares his memory of the founding faculty and the first graduating classes. He notes that the students were older and brought with them professional and life experiences, which enabled a sense of collaboration between faculty and students. He recognizes the academic freedom he enjoyed at UW Tacoma, which has allowed him to flexibility design and trailer his teaching. He discusses a sample of his courses, including topics on the AIDS epidemic, the Holocaust, peace and justice, and human rights, and how he has cultivated his cross-disciplinary interests at UW Tacoma as a political scientist, historian, and cultural theorist. He also touches on the creation of the Master of Arts in Interdisciplinary Studies and the Global Honors programs. The interview then turns to faculty relationship with the administration. Crawford looks back at his experience working with UWT’s first chancellor Vicky Carwein, as well as with the Faculty Senate and other faculty organizations in Seattle and Bothell. He laments the institution’s relentless demands for growth, especially in terms of numbers. Continuing with this thought, he expresses the dissonance he felt with his early vision of UWT as a place for innovation in education, noting as well the limits of having interdisciplinarity as the only parameter.Crawford concludes the interview by naming teaching, curriculum development, and institution building as the three most rewarding aspects of his work at UWT. At the same time, he shares his concerns and frustrations about the direction of the institution."
+        }
+      },{
+        "media": {
+          "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/68",
+          "caption": "James Brown interview",
+          "link": "https://foundingstoriesrender.onrender.com/items/foundingstories68.html",
+          "credit": "Founding Stories"
+        },
+        "start_date": { 
+          "month": "05",
+          "day": "29",
+          "year": "2018"
+        },
+        "text": {
+          "headline": "James Brown interview",
+          "text": "At the start of this session, Jim Brown recalls the unique interview process to recruit founding faculty at the University of Washington Tacoma and the curriculum planning meeting that took place later, in April 1990. He discusses the risks and unknowns involved in the adventure of building a new institution, noting his initial hesitation toward accepting the position. He shares his impression on the initial group of faculty assembled at the historic Perkins Building, remarking on the diverse academic backgrounds, interests, and personalities, as well as a strong sense of mutual respect for one another. The interview session then moves into the topic of leadership and faculty relationship with the administration. Brown recounts the somewhat unexpected departure of former dean Jack Keating, which led to Brown’s own involvement in the University’s administration and a national search that resulted in Vicky Carwein becoming the new chancellor. In the second half of the interview, Brown discusses the move to the permanent campus and some of the oppositions against UW Tacoma during this time. He characterizes the students in the early years as dedicated and eager to learn. He delves further into the evolving culture and structure on campus, noting a shift under former chancellor Vicky Carwein’s leadership. Toward the end of the interview, Brown expresses the importance of outreach, praising former chancellor Debra Friedman’s commitment to fostering community relationships, as well as commenting on the efforts to diversify the campus population, particularly faculty and staff."
+        }
+      },{
+        "media": {
+          "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/72",
+          "caption": "Beckie Etheridge interview",
+          "link": "https://foundingstoriesrender.onrender.com/items/foundingstories72.html",
+          "credit": "Founding Stories"
+        },
+        "start_date": { 
+          "month": "11",
+          "day": "21",
+          "year": "2019"
+        },
+        "text": {
+          "headline": "Beckie Etheridge interview",
+          "text": "In this interview, Beckie Etheridge talks about her experience as a founding staff member of University of Washington Tacoma. She describes her work building the media collection and later starting the Teaching and Learning Center. She discusses her experience working with Claudia Gorbman, professor of film studies, and former library director Deborah Stansbury Sunday, as well as other colleagues. She shares memories about building the film collection, technology equipment, and student staff. Recalling UW Tacoma's transition from a two-year school to a four-year university, she reveals her dedication toward supporting first-year and first-generation students and her view on how they have shaped the university."
+        }
+      },{
+        "media": {
+          "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/76",
+          "caption": "Greg Tanbara interview",
+          "link": "https://foundingstoriesrender.onrender.com/items/foundingstories76.html",
+          "credit": "Founding Stories"
+        },
+        "start_date": { 
+          "month": "01",
+          "day": "09",
+          "year": "2020"
+        },
+        "text": {
+          "headline": "Greg Tanbara interview",
+          "text": "In this interview, Greg Tanbara discusses his multifaceted connections with University of Washington Tacoma and Tacoma as a city. He begins by sharing his family history, tracing back to the early 1900s, when his grandparents immigrated and settled in today's downtown neighborhood of Tacoma, then a vibrant Japantown; his narration goes through World War II, when the residents were forced into internment, and into the mid-20th century. He recounts childhood memories living in the Japanese Language School building and participating in activities at the Tacoma Buddhist Temple, both of which were or are located on the present-day UW Tacoma campus. As an employee in multiple municipal offices from the late 1970s onward, Tanbara recalls discussions around a UW campus in Tacoma among local circles, including groups such as the Executive Council and individuals like Ryan Petty. At the end of the interview, Tanbara reflects on UW Tacoma's relationship with the neighborhood and local community, sharing his perspective on the university's role related to the history of Japantown and Tacoma."
+        }
+      },{
+        "media": {
+          "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/80",
+          "caption": "Janet Primomo interview",
+          "link": "https://foundingstoriesrender.onrender.com/items/foundingstories80.html",
+          "credit": "Founding Stories"
+        },
+        "start_date": { 
+          "month": "11",
+          "day": "18",
+          "year": "2019"
+        },
+        "text": {
+          "headline": "Janet Primomo interview",
+          "text": "Janet Primomo reflects on work with University of Washington Tacoma as part of the founding faculty of the School of Nursing and Healthcare Leadership. In this interview, she shares her experience starting as assistant professor in 1992, helping to build the Nursing program at the time and incorporating interdisciplinarity into the curriculum to match UW Tacoma’s mission. She mentions the interdisciplinarity as well as community-based scholarship as aspects that attracted her to the position. Next she highlights memorable students. She notes the diversity within the campus community and how the student body's demographics shifted before and after the Great Recession. She then describes the evolving relationships between University of Washington's three campuses: Bothell, Seattle, and Tacoma, and the unique, community-driven orientation of UW Tacoma. She finishes by reflecting on the rewarding and frustrating parts about her career at UW Tacoma."
+        }
+      },{
+        "media": {
+          "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/84",
+          "caption": "David Morris interview",
+          "link": "https://foundingstoriesrender.onrender.com/items/foundingstories84.html",
+          "credit": "Founding Stories"
+        },
+        "start_date": { 
+          "month": "09",
+          "day": "20",
+          "year": "2018"
+        },
+        "text": {
+          "headline": "David Morris interview",
+          "text": "David Morris recounts his experience starting the UW Tacoma Liberal Studies program and the then branch campus with a cohort of interdisciplinary scholars. He describes his interest and specialization in environmental literature and how they match the interdisciplinary approach to the curriculum at UW Tacoma. He shares his memories of team teaching and working with older, nontraditional college students that made up the majority of UW Tacoma student body when it was first established. Later in the interview, he discusses the tri-campus relationship between UW Tacoma, Seattle, and Bothell and shares his view on the university's trajectory of growth."
+        }
+      },{
+        "media": {
+          "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/88",
+          "caption": "Ryan Petty interview",
+          "link": "https://foundingstoriesrender.onrender.com/items/foundingstories88.html",
+          "credit": "Founding Stories"
+        },
+        "start_date": { 
+          "month": "01",
+          "day": "24",
+          "year": "2020"
+        },
+        "text": {
+          "headline": "Ryan Petty interview",
+          "text": "In this interview, Ryan Petty discusses his extensive and strategic work bringing a flagship university branch campus to Tacoma with the goal of creating local access to public education and four-year degrees for the city to develop economically. He explains the economic situation of Tacoma in the mid-1980s and the need to increase higher education opportunities in order to develop the workforce and attract business investment. He describes his behind-the-scenes work with higher education administrators and community stakeholders to discuss a possible Washington State University branch campus in Tacoma and to eventually persuade University of Washington to establish UW Tacoma. He reveals his deep personal investment in the place and endeavor, marveling at how &quot;it was meant to be&quot; and he was &quot;just the right person at the right time.&quot;"
+        }
+      },{
+        "media": {
+          "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/92",
+          "caption": "Chana Lawson interview",
+          "link": "https://foundingstoriesrender.onrender.com/items/foundingstories92.html",
+          "credit": "Founding Stories"
+        },
+        "start_date": { 
+          "month": "01",
+          "day": "22",
+          "year": "2020"
+        },
+        "text": {
+          "headline": "Chana Lawson interview",
+          "text": "Chana Lawson discusses her various connections and experiences with UW Tacoma in this interview. She begins by explaining her background as a military wife, student parent, and airline employee and her motivation to complete her bachelor's degree at UW Tacoma. She recalls the time when UW Tacoma became a four-year university, which coincided with her time as a student. She says having freshmen and younger students on campus drove her to become more involved in cultivating a community. Later in the interview, she discusses in further detail her involvement with the Black Student Union and her work to establish the very first MLK Unity Breakfast, rallying the support of campus and community organizations as well as faculty and administrators."
+        }
+      },{
+        "media": {
+          "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/96",
+          "caption": "Belinda Louie interview",
+          "link": "https://foundingstoriesrender.onrender.com/items/foundingstories96.html",
+          "credit": "Founding Stories"
+        },
+        "start_date": { 
+          "month": "12",
+          "day": "20",
+          "year": "2019"
+        },
+        "text": {
+          "headline": "Belinda Louie interview",
+          "text": "Belinda Louie shares her trajectory that led her to become a one of the three founding faculty of the Education program (now School of Education) at UW Tacoma. She recalls being a young scholar freshly out of her PhD program at University of Washington College of Education, participating in the extensive interview process on all three campuses, and her impressions of the campuses that led her to favor Tacoma over Bothell. She expresses her strong desire to support urban campuses and to serve the underserved, referencing her experiences growing up in Hong Kong and teaching in the Los Angeles Unified School District. She recounts stories about her popular literature classes in Liberal Studies (now Interdisciplinary Arts and Sciences), safety concerns and challenges in the classroom, and a key recruitment plan she designed and implemented. At the end of the interview, Louie reflects on her appreciation for the UW Tacoma campus, her sense of mission in her work, and her insights into the state of primary education in the U.S."
+        }
+      },{
+        "media": {
+          "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/101",
+          "caption": "Rod Hagenbuch interview",
+          "link": "https://foundingstoriesrender.onrender.com/items/foundingstories100.html",
+          "credit": "Founding Stories"
+        },
+        "start_date": { 
+          "month": "06",
+          "day": "09",
+          "year": "2020"
+        },
+        "text": {
+          "headline": "Rod Hagenbuch interview",
+          "text": "In this interview, Hagenbuch recounts behind-the-scenes work he and Ryan Petty did at the Tacoma-Pierce County Economic Development Board (EDB) to garner support for the establishment of a branch campus in Tacoma, including meeting with University of Washington president Bill Gerberding and Washington State University president Sam Smith. He shares his formative experience working for the Meridian Township Planning Commission in Michigan in the 1960s and '70s, reflecting on how collaborating with Michigan State University faculty and writing ordinances shaped his perspective on urban development and university-community partnerships. He describes arriving in Tacoma in 1982 as the manager of the local office of Merrill Lynch, finding himself leading the EDB, and witnessing the establishment of the Executive Council based on the recommendations of community planning consultant Bert Winterbottom (Rouse Company)."
+        }
+      },{
+        "media": {
+          "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/105",
+          "caption": "Kathleen Shannon Dorcy interview",
+          "link": "https://foundingstoriesrender.onrender.com/items/foundingstories104.html",
+          "credit": "Founding Stories"
+        },
+        "start_date": { 
+          "month": "12",
+          "day": "30",
+          "year": "2019"
+        },
+        "text": {
+          "headline": "Kathleen Shannon Dorcy interview",
+          "text": "Kathleen Shannon Dorcy shares her trajectory transitioning from being a young nun in the Dominican order to becoming a nurse and having a successful career as a nurse scientist, while continuously teaching at University of Washington Tacoma part time since the founding of the School of Nursing in 1991. She explains inspirations from her faith, family background, and experience moving from New Mexico and Arizona to Bellevue, Washington, that have defined her intellectual pursuits and personal mission. She describes how critical thinking ethics are applied in the community health and nursing curriculum at UW Tacoma."
+        }
+      },{
+        "media": {
+          "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/109",
+          "caption": "Vicky Carwein interview",
+          "link": "https://foundingstoriesrender.onrender.com/items/foundingstories108.html",
+          "credit": "Founding Stories"
+        },
+        "start_date": { 
+          "month": "03",
+          "day": "05",
+          "year": "2020"
+        },
+        "text": {
+          "headline": "Vicky Carwein interview",
+          "text": "Vicky Carwein describes her time as the dean and later first chancellor of UW Tacoma. In this interview, she explains her vision for the university and her approach to assembling an advisory board that included influential business leaders. She recalls making the personal decision to relocate to Tacoma and her first impressions of the campus that was still under construction then. She reflects on the rapid growth UW Tacoma experienced during her administration, the entrepreneurial spirit of the initial faculty, staff, and community movers and shakers, and the focus on serving the South Puget Sound region. She emphasizes the importance of the community and business leaders' investment in the success of UW Tacoma, and she compares her experience at UW Tacoma with other flagship university systems where she has worked."
+        }
+      },{
+        "media": {
+          "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/113",
+          "caption": "Linda Hurley Ishem interview",
+          "link": "https://foundingstoriesrender.onrender.com/items/foundingstories112.html",
+          "credit": "Founding Stories"
+        },
+        "start_date": { 
+          "month": "02",
+          "day": "07",
+          "year": "2020"
+        },
+        "text": {
+          "headline": "Linda Hurley Ishem interview",
+          "text": "In this interview, Linda Hurley Ishem offers her insight on the inception and growth of UW Tacoma and its relationship with the local South Puget Sound community, sharing her expertise in community economic development. She describes her time in public administration, from 1989 to 2000, which coincided with the period when business leaders in Tacoma advocated for the establishment of UW Tacoma in order to serve the community and strengthen the local labor force and economy. She recalls direct and indirect contacts with the key players, such as Ryan Petty of the Economic Development Board (EDB) and Bill Philip of Columbia Bank. She also details community partnerships and applied courses she leads as a faculty member, such as the McCarver Educational Partnership. In the later part of the interview, she reflects on her formal and informal advising roles with the Black Student Union and Black students on campus, as well as the meaning and challenges of representation and diversity."
+        }
+      },{
+        "media": {
+          "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/117",
+          "caption": "Karin Dalesky interview",
+          "link": "https://foundingstoriesrender.onrender.com/items/foundingstories116.html",
+          "credit": "Founding Stories"
+        },
+        "start_date": { 
+          "month": "11",
+          "day": "07",
+          "year": "2019"
+        },
+        "text": {
+          "headline": "Karin Dalesky interview",
+          "text": "Karin Dalesky talks about her 23-plus years of experience at UW Tacoma as both a student and staff member. She shares the unique needs and perspectives of nontraditional students, her impressions of the new campus location when it opened in 1997, and changes when UW Tacoma became a four-year university and welcomed its first freshmen class in 2006. She also discusses her queer identity and how it has shaped her experience. She characterizes her undergraduate education at UW Tacoma as transformative and recalls a sense of redemption on a personal level as well as for Tacoma, her hometown."
+        }
+      },{
+        "media": {
+          "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/121",
+          "caption": "William Richardson interview",
+          "link": "https://foundingstoriesrender.onrender.com/items/foundingstories120.html",
+          "credit": "Founding Stories"
+        },
+        "start_date": { 
+          "month": "01",
+          "day": "23",
+          "year": "2020"
+        },
+        "text": {
+          "headline": "William Richardson interview",
+          "text": "In this interview, Bill Richardson recalls his experience as a founding faculty member of UW Tacoma. He shares his motivation to help build a university, having witnessed the establishment of UC Santa Cruz and UC Irvine during his time as a student in the University of California system. He describes the unique hiring process and framework for the curriculum following the Washington state mandate to create branch campuses. He discusses team teaching, the interdisciplinary approach that was emphasized in the founding of UW Tacoma, and the relationship between the three UW campuses. He mentions representation in the faculty and early efforts to recruit and increase gender and ethnic diversity."
+        }
+      },{
+        "media": {
+          "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/125",
+          "caption": "Anthony D'Costa interview",
+          "link": "https://foundingstoriesrender.onrender.com/items/foundingstories124.html",
+          "credit": "Founding Stories"
+        },
+        "start_date": { 
+          "month": "10",
+          "day": "17",
+          "year": "2018"
+        },
+        "text": {
+          "headline": "Anthony D'Costa interview",
+          "text": "In this interview, Anthony D'Costa talks about his research interests that blend international development, sociology, economics, and political science, and how they align with the interdisciplinary emphasis at UW Tacoma when it was first established as a branch campus. He shares observations from his first visit to the Puget Sound area and the initial hiring and curriculum planning convenings."
+        }
+      },{
+        "media": {
+          "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/129",
+          "caption": "Christine Connerly interview",
+          "link": "https://foundingstoriesrender.onrender.com/items/foundingstories128.html",
+          "credit": "Founding Stories"
+        },
+        "start_date": { 
+          "month": "01",
+          "day": "30",
+          "year": "2020"
+        },
+        "text": {
+          "headline": "Christine Connerly interview",
+          "text": "Christine Connerly shares her personal perspective on the establishment, siting, and growth of UW Tacoma as a Tacoma native who has had a career in students affairs and academic assistance. She discusses the need to create public education opportunities. She weaves in her personal background as the daughter of teachers, sharing her father's experience changing careers and returning to school as a commuter student. She gives the context of Tacoma's contentious history with different populations and neighborhoods. Remembering her own involvement in the Arts Commision, she also shares her knowledge of public art and the role it has played in the transformation and architecture of downtown Tacoma."
+        }
+      },{
+        "media": {
+          "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/133",
+          "caption": "Marcia Monroe interview",
+          "link": "https://foundingstoriesrender.onrender.com/items/foundingstories132.html",
+          "credit": "Founding Stories"
+        },
+        "start_date": { 
+          "month": "05",
+          "day": "13",
+          "year": "2020"
+        },
+        "text": {
+          "headline": "Marcia Monroe interview",
+          "text": "Marcia Monroe shares memories from her 28 years of experience working at the UW Tacoma Library. She recounts her introduction to the library profession, and she describes in detail UW Tacoma's initial location in the Perkins Building, located at A Street next to the Thea Foss Waterway. She recalls memorable moments such as meeting and feeling impressed by the first library director, Deborah Stansbury Sunday, and visiting the construction site of what later became the UW Tacoma permanent campus. She reflects on the enormous impact technological advances have had on library services and information access over the past several decades."
+        }
+      },{
+        "media": {
+          "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/137",
+          "caption": "Sam H. Smith interview",
+          "link": "https://foundingstoriesrender.onrender.com/items/foundingstories136.html",
+          "credit": "Founding Stories"
+        },
+        "start_date": { 
+          "month": "02",
+          "day": "11",
+          "year": "2020"
+        },
+        "text": {
+          "headline": "Sam H. Smith interview",
+          "text": "In this interview, Sam Smith discusses his personal background as the son of migrant farmworkers, the transformative impact his education has had on his life, and influential mentors who guided him on a path to becoming a leader in higher education. He mentions specifically John Oswald, former president of University of Kentucky and Pennsylvania State University, and Clark Kerr, first chancellor of UC Berkeley and president emeritus of the University of California system. He notes the vision he had for WSU when he arrived in 1985 and accomplishments during his administration. He remembers the strategic discussions he has had with Tacoma community leaders and powerbrokers, particularly the late Kelso Gillenwater, publisher of the Tacoma News Tribune, about establishing WSU branch campuses. Finally, he offers his insights on branch campuses and the mission to serve students."
+        }
+      },{
+        "media": {
+          "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/141",
+          "caption": "Anne Haley interview",
+          "link": "https://foundingstoriesrender.onrender.com/items/foundingstories140.html",
+          "credit": "Founding Stories"
+        },
+        "start_date": { 
+          "month": "01",
+          "day": "07",
+          "year": "2020"
+        },
+        "text": {
+          "headline": "Anne Haley interview",
+          "text": "Sharing her personal and family background, Anne Haley discusses in this interview her family's strong ties to Tacoma and local institutions of higher learning, including University of Puget Sound and University of Washington Tacoma. Recalling her childhood in Tacoma, she describes mid-century Tacoma and socializing with other prominent families in town. She shares her perspective on education and learning as a librarian."
+        }
+      },{
+        "media": {
+          "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/145",
+          "caption": "Tamiko Nimura and Michael Sullivan interview",
+          "link": "https://foundingstoriesrender.onrender.com/items/foundingstories144.html",
+          "credit": "Founding Stories"
+        },
+        "start_date": { 
+          "month": "12",
+          "day": "10",
+          "year": "2019"
+        },
+        "text": {
+          "headline": "Tamiko Nimura and Michael Sullivan interview",
+          "text": "The present-day footprint of the UW Tacoma campus overlaps with what was once a vibrant and densely packed Japantown. In this interview, Michael Sullivan and Tamiko Nimura offer their perspectives on this history and its significance as it relates to UW Tacoma’s campus location. Nimura discusses how the historic Japantown touches the present, mentioning individuals who endeavored to research their family histories. Sullivan describes key events in the context of the historic Japantown prior to UW Tacoma’s arrival--from the removal of Japanese Americans to unsuccessful urban renewal efforts. They shared their views on the role UW Tacoma might play in education and in honoring downtown Tacoma’s past."
+        }
+      },{
+        "media": {
+          "url": "https://cdm16786.contentdm.oclc.org/utils/getthumbnail/collection/p16786coll18/id/149",
+          "caption": "Donna Kerr interview",
+          "link": "https://foundingstoriesrender.onrender.com/items/foundingstories148.html",
+          "credit": "Founding Stories"
+        },
+        "start_date": { 
+          "month": "07",
+          "day": "24",
+          "year": "2020"
+        },
+        "text": {
+          "headline": "Donna Kerr interview",
+          "text": "In this interview, Donna Kerr offers her insight into the landscape of higher education in the state of Washington with a focus on the 1980s, before the establishment of UW Tacoma and other University of Washington and Washington State University branch campuses. She recalls her work coordinating a study requested by the HEC Board to assess the educational needs in the central Puget Sound region, which led to an extensive analysis of the viability of UW branch campuses, known as the Kerr Report (1988). Recalling her work with community members, the media, and legislators, she discusses attitudes surrounding branch campuses, growth projections, business and political contexts, and the relationship between education and the workforce."
         }
       }
     ]
